@@ -1,5 +1,5 @@
 _repo: When-Valmond-Came-to-Pontiac-The-Story-of-a-Lost-Napoleon-Volume-3_6204
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Canadian fiction'
 - !lcc 'PS'
+- GITenberg
 title: 'When Valmond Came to Pontiac: The Story of a Lost Napoleon. Volume 3.'
 url: http://www.gutenberg.org/ebooks/6204
